@@ -1,0 +1,142 @@
+body{
+    background-image: url("jpg/Новый\ проект\ \(3\).png");
+    background-size:cover ;
+    background-attachment: fixed;
+}
+
+.Vverh{
+    color: rgb(123, 177, 224);
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+}
+
+.Zagolovok{
+    background-color: rgba(255, 255, 255, 0.774);
+    color:black ;
+    display: flex;
+    flex: 20%;
+    justify-content:  center;
+    align-items:  center;
+    margin-top: auto;
+}
+
+.Nach{
+    background-color: rgba(167, 70, 146, 0.863);
+    padding: 7px;
+    display: block;
+    padding: 5px;
+}
+
+.Nach img{
+    height: 200px;
+    width: 200px;
+    justify-content: right;
+}
+
+.Jo{
+    background-color: rgba(79, 24, 150, 0.781);
+}
+
+.Jo img{
+    height: 200px;
+    width: 375px;
+}
+
+.Jon{
+    background-color: rgba(79, 24, 150, 0.781);
+    padding: 5px;
+}
+
+.Jon img{
+    
+    height: 200px;
+    width: 200px;
+}
+
+.Jot{
+    background-image: url("https://img.freepik.com/premium-vector/dark-night-sky-starry-sky-color-background-infinity-space-with-shiny-stars_255502-297.jpg");
+    color: rgb(255, 255, 255);
+    background-size:cover ;
+    background-attachment: fixed;
+    padding: 5px;
+}
+
+.Jot img{
+    height: 200px;
+    width: 200px;
+}
+
+.Jor{
+    background-color: rgba(196, 193, 30, 0.74);
+    color: rgb(86, 21, 99);
+    padding: 5px;
+}
+
+.Jor img{
+    height: 200px;
+    width: 200px;
+}
+
+.Previewtok{
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.849);
+    color:rgb(255, 255, 255) ;
+    display: flex;
+    flex: 20%;
+    justify-content:  center;
+    align-items:  center;
+    margin-top: auto;
+}
+
+.Toki{
+    background-color: rgba(0, 0, 0, 0.849) ;
+    color:rgb(255, 255, 255) ;
+    padding: 5px;
+}
+
+.Toki img{
+    height: 200px;
+    width: 200px;
+    
+}
+
+.Dal{
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+
+.Zagnar{
+    justify-content: center;
+    background-color: rgba(247, 119, 0, 0.849);
+    color:rgb(255, 255, 255) ;
+    display: flex;
+    flex: 20%;
+    justify-content:  center;
+    align-items:  center;
+    margin-top: auto;
+}
+
+.Nar{
+    background-color: rgb(247, 119, 0, 0.849);
+    color:rgb(255, 255, 255) ;
+    
+}
+
+.Nari{
+    background-color: rgb(247, 119, 0, 0.849);
+    color:rgb(255, 255, 255) ;
+    padding: 5px;
+}
+
+.Nari img{
+    height: 200px;
+    width: 200px;
+}
+
+.Konec{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+
